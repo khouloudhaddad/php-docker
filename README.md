@@ -3,7 +3,7 @@
  - docker-composer up
  - docker-composer down
 
-# Errors
+## Errors
 
 If you get the error: `Fatal error: Uncaught Error: Call to undefined function mysqli_connect() in /var/www/html/index.php:3 Stack trace: #0 {main} thrown in /var/www/html/index.php on line 3`
 
